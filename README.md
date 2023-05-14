@@ -5,9 +5,6 @@
 <p align='center'>
   Software Engineer from Melbourne, Australia. 
 </p>
-<p align='center'>
-   At the moment, I'm focused on learning more about full stack development.
-</p>
 
 <p align='center'>
   
