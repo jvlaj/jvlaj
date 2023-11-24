@@ -6,7 +6,7 @@
   a software guy from melbourne, australia. 
 </p>
 <div align='center' style="display: inline-block;">
-    <a href="https://www.jvlaj.com" style="text-decoration: none; display: inline-block;">
+    <a href="https://www.jvlaj.com" style="text-decoration: none; display: inline-block;" target="_blank">
         <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
     </a>
 </div>
